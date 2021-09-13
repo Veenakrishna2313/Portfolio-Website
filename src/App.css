@@ -1,15 +1,72 @@
 /*Navbar*/
+nav{
+  z-index: 2;
+}
+
+nav a.nav-link {
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  cursor: pointer;
+}
+
+nav ul li {
+  text-transform: uppercase;
+}
 
 
+/***Header***/
 
-nav a.nav-link{
-font-weight: 500;
-letter-spacing:0.6px;
-cursor:pointer;
+.header-wraper {
+  position: relative;
+  background: url(/src/components/assets/wallpaperflare.com_wallpaper.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  
+}
+
+.main-info{
+  display:flex;
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+  z-index: 2;
+  font-family:  Apple Chancery, cursive;
+}
+
+.main-info h1{
+font-size: 70px;
 
 }
 
-nav ul li{
-  text-transform:uppercase;
+@media(max-width:768px){
+
+  .main-info h1{
+font-size: 2em !important;
+
+}
+  }
+
+
+/***particles***/
+
+.tsparticles-canvas-el{
+  position:absolute;
+  height:100vh;
+  width:100vw;
+  z-index:1;
 }
 
+
+@media(max-width:768px){
+
+  .particles-canvas{
+    display:none;
+  }
+}
