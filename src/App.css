@@ -1,6 +1,4 @@
-body {
-  font-family: Apple Chancery, cursive;
-}
+
 /*Navbar*/
 nav {
   z-index: 2;
@@ -38,7 +36,7 @@ nav ul li {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: Apple Chancery, cursive;
+  /*font-family: Apple Chancery, cursive;*/
   z-index: 2;
 }
 
@@ -108,7 +106,8 @@ p {
 }
 
 .Skills h1 {
-  text-decoration: uppercase;
+  text-transform: uppercase;
+  color:rgba(253, 188, 68, 0.87);
 }
 
 .Skills .circle {
@@ -151,4 +150,106 @@ color:black;
   .Skills .box:hover .circle{
 
 background:white
+  }
+
+
+  /****************Experience*****/
+.experience{
+      padding:0.75rem;
+    }
+  .experience-wrapper{
+
+    position:relative;
+    padding:3.125rem;
+    overflow:hidden;
+  }
+
+  .experience h1{
+
+    text-transform: uppercase;
+    color:rgba(253, 188, 68, 0.87);
+  }
+
+  .experience-wrapper::before{
+    position: absolute;
+    content:"";
+    top:0;
+    left:50%;
+    margin-left:-0.0625rem;
+    width:0.125rem;
+    height:100%;
+    background: black;
+    z-index: 1;
+}
+  
+.timeline-block{
+
+  width:calc(50% + 0.5rem);
+  display:flex;
+  justify-content:space-between;
+  clear:both;
+  }
+
+  .timeline-block-right{
+    float: right;
+  }
+
+   .timeline-block-left{
+    float: left;
+    direction: rtl;
+  }
+
+
+
+  .marker{
+    width:1rem;
+    height:1rem;
+    border-radius: 50%;
+    border:0.3125rem solid;
+    background:rgba(253, 188, 68, 0.87);;
+    margin-top: 0.625rem;
+    z-index: 3;
+  }
+
+  .timeline-content{
+    width:90%;
+    padding:0 0 .9375rem;
+    direction: ltr;
+  }
+
+  .timeline-content h3{
+    margin-top:0.135rem;
+    color:rgba(253, 188, 68, 0.87);
+    font-weight: 500;
+  }
+
+  @media (max-width:768px)
+  {
+
+    
+    .experience .container {
+
+    padding-left:0;
+    
+  }
+
+    .experience-wrapper::before{
+      left:0.5rem;
+      margin-bottom:1.875rem;
+    }
+
+    .timeline-block-right{
+      float:none;
+      width:100%;
+    }
+    .timeline-block-left{
+      float:none;
+      direction: ltr;
+      width:100%;
+    }
+
+    .timeline-content h6{
+      font-size: .8rem;
+
+    }
   }
