@@ -141,6 +141,7 @@ color:white;
 .Skills .box:hover{
   background: rgba(253, 188, 68, 0.87);
   border-color:black;
+  cursor: pointer;
   }
 
   .Skills .box:hover .icon{
@@ -254,3 +255,37 @@ background:white
 
     }
   }
+
+  /*********Portfolio*****/
+
+  .portfolio-wrapper{
+
+    background: rgb(247, 245, 245);
+    padding:3rem 0;
+    justify-content: center;
+   
+    }
+
+    .portfolio-image{
+      
+      width:15rem;
+      border:1px solid rgba(253, 188, 68, 0.87);
+      padding:0.5rem;
+    }
+
+    .portfolio-image-box{
+
+      position:relative;
+      margin:1rem;
+    }
+    
+    .overflow{
+      position:absolute;
+      opacity:0;
+      background:black;
+      width:15rem;
+      height:8rem;
+      top:0;
+      border:1px solid black;
+      cursor:pointer;
+    }
