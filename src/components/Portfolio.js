@@ -25,12 +25,7 @@ const Portfolio = () => {
           >
             Browse Code
           </a>
-          <a
-            href="https://github.com/Veenakrishna2313/TVshows-App"
-            className="button btn btn-warning btn-sm "
-          >
-            See It Live
-          </a>
+         
           <div className="overflow"></div>
         </div>
         <div className="portfolio-image-box col">
@@ -68,12 +63,7 @@ const Portfolio = () => {
           >
             Browse Code
           </a>
-          <a
-            href="https://github.com/Veenakrishna2313/Grocery-list-manager"
-            className="button btn btn-warning btn-sm"
-          >
-            See It Live
-          </a>
+         
           <div className="overflow"></div>
         </div>
         <div className="portfolio-image-box col">
@@ -89,12 +79,7 @@ const Portfolio = () => {
           >
             Browse Code
           </a>
-          <a
-            href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm "
-          >
-            See It Live
-          </a>
+          
           <div className="overflow"></div>
         </div>
 

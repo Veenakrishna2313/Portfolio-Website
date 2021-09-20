@@ -157,10 +157,20 @@ color:white;
 
 color:black;
   }
+  .Skills .box:hover p{
+
+color:black;
+opacity:1;
+  }
 
   .Skills .box:hover .circle{
 
 background:white
+  }
+
+  .Skills .box p{
+    text-align: center;
+    opacity:0;
   }
 
 

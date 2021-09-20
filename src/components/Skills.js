@@ -22,6 +22,10 @@ const Skills = () => {
               </div>
 
               <h3>Front End</h3>
+              <p>
+                HTML, CSS, ReactJS, Angular, Bootstrap, JavaScript, Typescript,
+                Redux
+              </p>
             </div>
           </div>
           {/* */}
@@ -32,6 +36,7 @@ const Skills = () => {
               </div>
 
               <h3>Back End</h3>
+              <p>JavaScript, NodeJS, Express</p>
             </div>
           </div>
           {/* */}
@@ -42,6 +47,7 @@ const Skills = () => {
               </div>
 
               <h3>Data Bases </h3>
+              <p>Firestore, MongoDB, SQL</p>
             </div>
           </div>
           {/* */}
@@ -52,6 +58,7 @@ const Skills = () => {
               </div>
 
               <h3>Source Control & Platforms</h3>
+              <p>Google cloud, Firebase, Windows Server, Git, GitHub</p>
             </div>
           </div>
           {/* */}
@@ -62,6 +69,7 @@ const Skills = () => {
               </div>
 
               <h3>Deployment, Testing & Debugging</h3>
+              <p>Heroku, GCP, POSTMAN, VSCode, Github Pages</p>
             </div>
           </div>
           {/* */}
@@ -72,6 +80,7 @@ const Skills = () => {
               </div>
 
               <h3>Other</h3>
+              <p>Salesforce, MailChimp, WordPress</p>
             </div>
           </div>
         </div>
