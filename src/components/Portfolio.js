@@ -15,7 +15,10 @@ const Portfolio = () => {
             src={tvshow}
             alt="TV guide project..."
           />
-          <p>Bootstrap, Redux, add more</p>
+          <p>
+            Angular, Angular material design, Typescript, NodeJS, REST, Json,
+            Angular Routing & mapping.
+          </p>
           <a
             href="https://github.com/Veenakrishna2313/TVshows-App"
             className="button btn btn-warning btn-sm "
@@ -36,7 +39,7 @@ const Portfolio = () => {
             src={instadev}
             alt="Photo sharing app for women developers..."
           />
-          <p>Bootstrap, Redux</p>
+          <p>React, Redux, NodeJS, MongoDB, Postman, Heroku. </p>
 
           <a
             href="https://github.com/Veenakrishna2313/InstaDev-G"
@@ -45,7 +48,7 @@ const Portfolio = () => {
             Browse Code
           </a>
           <a
-            href="https://github.com/Veenakrishna2313/InstaDev-G"
+            href="https://pacific-island-78597.herokuapp.com/"
             className="button btn btn-warning btn-sm "
           >
             See It Live
@@ -58,7 +61,7 @@ const Portfolio = () => {
             src={grocery}
             alt="Grocery List Manager Project"
           />
-          <p>Bootstrap, Redux</p>
+          <p>Angular framework and CSS Bootstrap</p>
           <a
             href="https://github.com/Veenakrishna2313/Grocery-list-manager"
             className="button btn btn-warning btn-sm "
@@ -79,7 +82,7 @@ const Portfolio = () => {
             src={musicplayer}
             alt="Music Player"
           />
-          <p>Bootstrap, Redux</p>
+          <p>Html, css and Javascript</p>
           <a
             href="https://github.com/Veenakrishna2313/TVshows-App"
             className="button btn btn-warning btn-sm "
@@ -97,7 +100,7 @@ const Portfolio = () => {
 
         <div className="portfolio-image-box col">
           <img className="portfolio-image" src={grocery} alt="Movie Rental" />
-          <p>Bootstrap, Redux</p>
+          <p>React, React Hooks, NodeJS, MongoDB, Heroku</p>
           <a
             href="https://github.com/Veenakrishna2313/Elevate"
             className="button btn btn-warning btn-sm "
