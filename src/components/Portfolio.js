@@ -98,23 +98,7 @@ const Portfolio = () => {
           <div className="overflow"></div>
         </div>
 
-        <div className="portfolio-image-box col">
-          <img className="portfolio-image" src={grocery} alt="Movie Rental" />
-          <p>React, React Hooks, NodeJS, MongoDB, Heroku</p>
-          <a
-            href="https://github.com/Veenakrishna2313/Elevate"
-            className="button btn btn-warning btn-sm "
-          >
-            Browse Code
-          </a>
-          <a
-            href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm "
-          >
-            See It Live
-          </a>
-          <div className="overflow"></div>
-        </div>
+        
       </div>
     </div>
   );
