@@ -263,29 +263,48 @@ background:white
     background: rgb(247, 245, 245);
     padding:3rem 0;
     justify-content: center;
+    
    
     }
 
     .portfolio-image{
       
       width:15rem;
-      border:1px solid rgba(253, 188, 68, 0.87);
+      height:8rem;      
       padding:0.5rem;
-    }
-
+       justify-content: center;
+       
+      
+      }
     .portfolio-image-box{
-
       position:relative;
-      margin:1rem;
+      margin:  1rem;
+      text-align: center;
+       width:20rem;
+      height:20rem;
+       border:5px solid rgba(253, 188, 68, 0.87);
+        
     }
     
     .overflow{
       position:absolute;
       opacity:0;
       background:black;
-      width:15rem;
-      height:8rem;
+     padding: 0.5rem;
       top:0;
       border:1px solid black;
       cursor:pointer;
     }
+
+    .portfolio-image-box:hover .overflow{
+   
+      transition: 0.3s ease-in-out;
+
+    }
+
+    .button{
+      margin:10px;
+      margin-top:80px;
+    }
+
+
