@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.323b1814.chunk.css",
-    "main.js": "/Portfolio-Website/static/js/main.a1fd0318.chunk.js",
-    "main.js.map": "/Portfolio-Website/static/js/main.a1fd0318.chunk.js.map",
-    "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.748179c2.js",
-    "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.748179c2.js.map",
+    "main.js": "/Portfolio-Website/static/js/main.724e9256.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.724e9256.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.930f86c4.js",
+    "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.930f86c4.js.map",
     "static/css/2.f2512455.chunk.css": "/Portfolio-Website/static/css/2.f2512455.chunk.css",
-    "static/js/2.7e86f4ea.chunk.js": "/Portfolio-Website/static/js/2.7e86f4ea.chunk.js",
-    "static/js/2.7e86f4ea.chunk.js.map": "/Portfolio-Website/static/js/2.7e86f4ea.chunk.js.map",
-    "static/js/3.6f2aeca9.chunk.js": "/Portfolio-Website/static/js/3.6f2aeca9.chunk.js",
-    "static/js/3.6f2aeca9.chunk.js.map": "/Portfolio-Website/static/js/3.6f2aeca9.chunk.js.map",
+    "static/js/2.6368bac4.chunk.js": "/Portfolio-Website/static/js/2.6368bac4.chunk.js",
+    "static/js/2.6368bac4.chunk.js.map": "/Portfolio-Website/static/js/2.6368bac4.chunk.js.map",
+    "static/js/3.7fbe176f.chunk.js": "/Portfolio-Website/static/js/3.7fbe176f.chunk.js",
+    "static/js/3.7fbe176f.chunk.js.map": "/Portfolio-Website/static/js/3.7fbe176f.chunk.js.map",
     "index.html": "/Portfolio-Website/index.html",
     "static/css/2.f2512455.chunk.css.map": "/Portfolio-Website/static/css/2.f2512455.chunk.css.map",
     "static/css/main.323b1814.chunk.css.map": "/Portfolio-Website/static/css/main.323b1814.chunk.css.map",
-    "static/js/2.7e86f4ea.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.7e86f4ea.chunk.js.LICENSE.txt",
+    "static/js/2.6368bac4.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.6368bac4.chunk.js.LICENSE.txt",
     "static/media/InstaDev.4a49d074.png": "/Portfolio-Website/static/media/InstaDev.4a49d074.png",
     "static/media/TV show app.a5fda3dc.png": "/Portfolio-Website/static/media/TV show app.a5fda3dc.png",
     "static/media/Veena Krishna Resume.3ddb31de.pdf": "/Portfolio-Website/static/media/Veena Krishna Resume.3ddb31de.pdf",
@@ -23,10 +23,10 @@
     "static/media/App.css": "/Portfolio-Website/static/media/wallpaperflare.com_wallpaper.c05dbfd1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.748179c2.js",
+    "static/js/runtime-main.930f86c4.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.7e86f4ea.chunk.js",
+    "static/js/2.6368bac4.chunk.js",
     "static/css/main.323b1814.chunk.css",
-    "static/js/main.a1fd0318.chunk.js"
+    "static/js/main.724e9256.chunk.js"
   ]
 }
