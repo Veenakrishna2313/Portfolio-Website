@@ -2,6 +2,7 @@
 /*Navbar*/
 nav {
   z-index: 2;
+  height:60px;
 }
 
 nav a.nav-link {
@@ -12,6 +13,14 @@ nav a.nav-link {
 
 nav ul li {
   text-transform: uppercase;
+}
+
+.navbar-nav>li>a.active, .navbar-nav>li>a:focus{
+  border-top:0.1875rem solid rgba(253, 188, 68, 0.87);
+}
+
+.navbar-nav>li>a:hover{
+  border-top:0.1875rem solid rgba(253, 188, 68, 0.87);
 }
 
 /***Header***/
