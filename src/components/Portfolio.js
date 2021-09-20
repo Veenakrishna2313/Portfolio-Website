@@ -17,14 +17,14 @@ const Portfolio = () => {
           />
           <p>Bootstrap, Redux</p>
           <a
-            href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm stretched-link"
+            href="https://github.com/Veenakrishna2313/TVshows-App"
+            className="button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
           <a
-            href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm stretched-link"
+            href="https://github.com/Veenakrishna2313/TVshows-App"
+            className="button btn btn-warning btn-sm "
           >
             See It Live
           </a>
@@ -40,13 +40,13 @@ const Portfolio = () => {
 
           <a
             href="https://github.com/Veenakrishna2313/InstaDev-G"
-            className="button button btn btn-warning btn-sm stretched-link"
+            className="button button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
           <a
-            href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm stretched-link"
+            href="https://github.com/Veenakrishna2313/InstaDev-G"
+            className="button btn btn-warning btn-sm "
           >
             See It Live
           </a>
@@ -61,13 +61,13 @@ const Portfolio = () => {
           <p>Bootstrap, Redux</p>
           <a
             href="https://github.com/Veenakrishna2313/Grocery-list-manager"
-            className="button btn btn-warning btn-sm stretched-link"
+            className="button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
           <a
-            href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm stretched-link"
+            href="https://github.com/Veenakrishna2313/Grocery-list-manager"
+            className="button btn btn-warning btn-sm"
           >
             See It Live
           </a>
@@ -81,14 +81,14 @@ const Portfolio = () => {
           />
           <p>Bootstrap, Redux</p>
           <a
-            href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm stretched-link"
+            href="https://github.com/Veenakrishna2313/TVshows-App"
+            className="button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
           <a
             href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm stretched-link"
+            className="button btn btn-warning btn-sm "
           >
             See It Live
           </a>
@@ -100,13 +100,13 @@ const Portfolio = () => {
           <p>Bootstrap, Redux</p>
           <a
             href="https://github.com/Veenakrishna2313/Elevate"
-            className="button btn btn-warning btn-sm stretched-link"
+            className="button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
           <a
             href="https://www.w3schools.com/"
-            className="button btn btn-warning btn-sm stretched-link"
+            className="button btn btn-warning btn-sm "
           >
             See It Live
           </a>
