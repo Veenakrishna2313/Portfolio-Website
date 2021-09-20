@@ -6,7 +6,7 @@ import musicplayer from "./assets/Projects/musicplayer.png";
 
 const Portfolio = () => {
   return (
-    <div id= "portfolio" className="portfolio-wrapper">
+    <div id="portfolio" className="portfolio-wrapper">
       <h1 className="text-uppercase text-center py-5">Portfolio</h1>
       <div className="image-box-wrapper row justify-content-center">
         <div className="portfolio-image-box col ">
@@ -25,7 +25,7 @@ const Portfolio = () => {
           >
             Browse Code
           </a>
-         
+
           <div className="overflow"></div>
         </div>
         <div className="portfolio-image-box col">
@@ -63,7 +63,7 @@ const Portfolio = () => {
           >
             Browse Code
           </a>
-         
+
           <div className="overflow"></div>
         </div>
         <div className="portfolio-image-box col">
@@ -74,16 +74,14 @@ const Portfolio = () => {
           />
           <p>Html, css and Javascript</p>
           <a
-            href="https://github.com/Veenakrishna2313/TVshows-App"
+            href="https://github.com/Veenakrishna2313/Music-Player"
             className="button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
-          
+
           <div className="overflow"></div>
         </div>
-
-        
       </div>
     </div>
   );
