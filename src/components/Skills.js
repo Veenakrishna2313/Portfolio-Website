@@ -11,7 +11,7 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 
 const Skills = () => {
   return (
-    <div className="Skills">
+    <div id="skills" className="Skills">
       <h1 className="py-5"> Skills </h1>
       <div className="container">
         <div className="row">
