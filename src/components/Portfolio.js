@@ -15,7 +15,7 @@ const Portfolio = () => {
             src={tvshow}
             alt="TV guide project..."
           />
-          <p>Bootstrap, Redux</p>
+          <p>Bootstrap, Redux, add more</p>
           <a
             href="https://github.com/Veenakrishna2313/TVshows-App"
             className="button btn btn-warning btn-sm "
