@@ -297,10 +297,7 @@ background:white
       cursor:pointer;
     }
 
-    
-
-
-    .button{
+        .button{
       margin:10px;
       margin-top:90px;
     }
@@ -314,4 +311,40 @@ background:white
 
     }
 
+/**************Footer*********************/
 
+.footer{
+
+  background: rgb(77, 76, 76);
+  color: solid black;
+  height: 300px;
+  text-align: center;
+  
+
+}
+
+.boxes{
+
+  align-items: center;
+  display:flex;
+}
+.circles {
+  width:200px;
+  margin: 0 100px 50px 100px;
+
+ 
+}
+
+.circles:hover{
+  color:rgba(253, 188, 68, 0.87);
+}
+
+@media(max-width:768px){
+  .circles{
+  margin:0px 40px 30px 40px;;
+  width:50px;
+}
+}
+.heading{
+  font-weight: 600;
+}
