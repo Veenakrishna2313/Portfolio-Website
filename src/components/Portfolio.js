@@ -20,6 +20,7 @@ const Portfolio = () => {
             Angular Routing & mapping.
           </p>
           <a
+            target="_blank"
             href="https://github.com/Veenakrishna2313/TVshows-App"
             className="button btn btn-warning btn-sm "
           >
@@ -37,12 +38,14 @@ const Portfolio = () => {
           <p>React, Redux, NodeJS, MongoDB, Postman, Heroku. </p>
 
           <a
+            target="_blank"
             href="https://github.com/Veenakrishna2313/InstaDev-G"
             className="button button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
           <a
+            target="_blank"
             href="https://pacific-island-78597.herokuapp.com/"
             className="button btn btn-warning btn-sm "
           >
@@ -56,12 +59,20 @@ const Portfolio = () => {
             src={grocery}
             alt="Grocery List Manager Project"
           />
-          <p>Angular framework and CSS Bootstrap</p>
+          <p>Angular framework, CSS Bootstrap, Github Pages</p>
           <a
+            target="_blank"
             href="https://github.com/Veenakrishna2313/Grocery-list-manager"
             className="button btn btn-warning btn-sm "
           >
             Browse Code
+          </a>
+          <a
+            target="_blank"
+            href="https://veenakrishna2313.github.io/Grocery-list-manager/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
           </a>
 
           <div className="overflow"></div>
@@ -72,12 +83,20 @@ const Portfolio = () => {
             src={musicplayer}
             alt="Music Player"
           />
-          <p>Html, css and Javascript</p>
+          <p>Html, css, Javascript and Github Pages</p>
           <a
+            target="_blank"
             href="https://github.com/Veenakrishna2313/Music-Player"
             className="button btn btn-warning btn-sm "
           >
             Browse Code
+          </a>
+          <a
+            target="_blank"
+            href="https://veenakrishna2313.github.io/Music-Player/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
           </a>
 
           <div className="overflow"></div>
