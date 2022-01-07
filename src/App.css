@@ -1,3 +1,10 @@
+ @media (max-width:768px)
+  {    
+    body{
+      margin:0.1em;
+    }
+    
+  }
 
 /*Navbar*/
 nav {
@@ -168,6 +175,14 @@ background:white
     text-align: center;
     opacity:0;
   }
+
+  
+  @media (max-width:768px)
+  {    
+    .box p {
+    font-size: smaller;
+    
+  }}
 
 
   /****************Experience*****/

@@ -30,6 +30,11 @@ const Experience = () => {
               lightweight interface for scrollytelling in React which uses
               IntersectionObserver instead of scroll events.
             </p>
+            <p>
+              • Developed the Mission, About and Seattle pages, which displays
+              information about Candidates for the November and December recall
+              elections. 
+            </p>
           </div>
         </div>
         {/* */}
@@ -104,14 +109,16 @@ const Experience = () => {
             </h6>
             <p>
               • Expanded into 8 new markets, contributing to $460K revenue
-              increase.</p>
-              <p> • Helped Coca-Cola achieve “First Mover advantage” by
-              optimizing the sales and distribution plans to meet customer
-              demand in the shortest time.
+              increase.
+            </p>
+            <p>
+              {" "}
+              • Helped Coca-Cola achieve “First Mover advantage” by optimizing
+              the sales and distribution plans to meet customer demand in the
+              shortest time.
             </p>
           </div>
         </div>
-        
       </div>
     </div>
   );

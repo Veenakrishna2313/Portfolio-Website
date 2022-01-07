@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import studentProfiles from "./assets/Projects/Student profiles.png";
 import tvshow from "./assets/Projects/TV show app.png";
 import grocery from "./assets/Projects/grocery list Manager.png";
 import instadev from "./assets/Projects/InstaDev.png";
@@ -9,6 +10,31 @@ const Portfolio = () => {
     <div id="portfolio" className="portfolio-wrapper">
       <h1 className="text-uppercase text-center py-5">Portfolio</h1>
       <div className="image-box-wrapper row justify-content-center">
+        <div className="portfolio-image-box col">
+          <img
+            className="portfolio-image"
+            src={studentProfiles}
+            alt="Grocery List Manager Project"
+          />
+          <p>React, React Hooks, Axios, Bootstrap, Heroku</p>
+          <a
+            target="_blank"
+            href="https://studentprofilelist.herokuapp.com/"
+            className="button btn btn-warning btn-sm "
+          >
+            Browse Code
+          </a>
+          <a
+            target="_blank"
+            href="https://veenakrishna2313.github.io/Grocery-list-manager/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
+          </a>
+
+          <div className="overflow"></div>
+        </div>
+
         <div className="portfolio-image-box col ">
           <img
             className="portfolio-image"
