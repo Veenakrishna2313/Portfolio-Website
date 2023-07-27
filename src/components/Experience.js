@@ -33,7 +33,7 @@ const Experience = () => {
             <p>
               • Developed the Mission, About and Seattle pages, which displays
               information about Candidates for the November and December recall
-              elections. 
+              elections.
             </p>
           </div>
         </div>
@@ -47,9 +47,8 @@ const Experience = () => {
               <i> Kinship Group</i>
             </h6>
             <p>
-              • Lead project estimator for the PNW region, responsible for
-              projects ranging from $50,000 to $1,000,000. Successfully
-              completed multiple project bids by collaborating with
+              • Successfully completed multiple projects ranging from $50,000 to
+              $2,000,000 by managing schedules and collaborating with
               cross-functional teams such as general contractors, architects,
               manufacturers, and logistics.
             </p>
