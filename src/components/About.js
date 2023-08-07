@@ -29,8 +29,7 @@ const About = () => {
             communication and interpersonal skills, I thrive on challenges
             whether it is learning a new skill / competency or solving a
             business problem.</p>
-            <p> I am also currently a web developer at The
-            Informed Voter Project.
+            <p> I am also currently a Assistant Project Manager for Kinship Group.
           </p>
           <p>
             If I'm not coding, I am probably designing interiors, wood working

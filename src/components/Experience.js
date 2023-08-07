@@ -10,13 +10,13 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>April 2021-Present</h3>
+            <h3>April 2021-June 2022</h3>
             <h6>
               Volunteer Web Application Developer|
               <i> The Informed Voter Project</i>
             </h6>
             <p>
-              • Developing a web application to increase the voter registration,
+              • Developed web application to increase the voter registration,
               participation & voting in local elections to bring about systemic
               changes for voters in their own community.
             </p>
@@ -38,13 +38,46 @@ const Experience = () => {
           </div>
         </div>
         {/* */}
+
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2018 - Present</h3>
+            <h3>2021 - Present</h3>
             <h6>
-              Project Estimator / Assistant Project Manager |
-              <i> Kinship Group</i>
+              Assistant Project Manager |<i> Kinship Group</i>
+            </h6>
+            <p>
+              • Successfully managed and coordinated 15 door, frame, and
+              hardware supply and installation projects ranging from
+              $100,000-$500,000 by ensuring smooth workflow and effective
+              communication between various stakeholders.
+            </p>
+            <p>
+              • Assisted in negotiating contracts with suppliers, creating
+              comprehensive project timelines, schedules, budgets with the
+              project managers, which resulted in cost savings of 10% on project
+              materials without compromising quality.
+            </p>
+            <p>
+              • Writing, reviewing, and pricing out RFI’s, change orders and
+              submittal changes which ensure accurate documentation, assessing
+              the impact of changes and effective communication among project
+              stakeholders, resulting in a 30% decrease in errors and
+              streamlining project reporting processes.
+            </p>
+            <p>
+              • Preparing sales and purchase orders, ensuring the availability
+              of required products, and coordinating delivery schedules to meet
+              project timelines.
+            </p>
+          </div>
+        </div>
+        <div className="timeline-block timeline-block-right">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2018 - 2021</h3>
+            <h6>
+              Project Estimator |<i> Contract Hardware</i>
             </h6>
             <p>
               • Successfully completed multiple projects ranging from $50,000 to
@@ -63,6 +96,37 @@ const Experience = () => {
           </div>
         </div>
         {/* */}
+
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2017 - 2018</h3>
+            <h6>
+              Business Coordinator |<i> | Tangible IP, LLC</i>
+            </h6>
+            <p>
+              • • Managed multi-million-dollar intellectual property portfolios,
+              review an average of ~30 patents a month and evaluate their
+              potential for brokerage.
+            </p>
+            <p>
+              • Built a responsive website using WordPress and managed it by
+              adding new features and themes.
+            </p>
+            <p>
+              • Managed the company newsletters using MailChimp – the
+              newsletters were read by over 13,500 professionals in the IP,
+              business, and investment community, my efforts in optimizing the
+              subscribers led to an increase of readership by 10%, 20% increase
+              in traffic on the website.
+            </p>
+            <p>
+              • Managed Capsule CRM added customization in CRM for increased
+              transparency between brokers, technical experts, and Tangible IP.
+            </p>
+          </div>
+        </div>
+
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">

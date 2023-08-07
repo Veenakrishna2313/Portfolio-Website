@@ -23,7 +23,7 @@ const Skills = () => {
 
               <h3>Front End</h3>
               <p>
-                HTML, CSS, ReactJS, Angular, Bootstrap, JavaScript, Typescript,
+                HTML, CSS, ReactJS, Angular, Bootstrap, Material UI, JavaScript, Typescript,
                 Redux
               </p>
             </div>
@@ -69,7 +69,7 @@ const Skills = () => {
               </div>
 
               <h3>Deployment, Testing & Debugging</h3>
-              <p>Heroku, GCP, POSTMAN, VSCode, Github Pages</p>
+              <p>Heroku, GCP, POSTMAN, VSCode, Github Pages, Netlify</p>
             </div>
           </div>
           {/* */}

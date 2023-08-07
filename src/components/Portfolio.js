@@ -141,7 +141,12 @@ const Portfolio = () => {
             src={instadev}
             alt="Photo sharing app for women developers..."
           />
-          <p>React, Redux, NodeJS, MongoDB, Postman, Heroku. </p>
+          <p>
+            Photo-sharing full stack web app similar to Instagram, managing UI
+            design, user features, and SCRUM leadership, utilizing React, Redux,
+            NodeJS, MongoDB, and Heroku, achieving robustness and agile
+            delivery.
+          </p>
 
           <a
             target="_blank"
@@ -183,11 +188,7 @@ const Portfolio = () => {
           <div className="overflow"></div>
         </div>
         <div className="portfolio-image-box col">
-          <img
-            className="portfolio-image"
-            src={tvshow}
-            alt="TV shows app"
-          />
+          <img className="portfolio-image" src={tvshow} alt="TV shows app" />
           <p>
             A user-friendly web app using Angular, Angular Material Design, and
             NodeJS, enabling users to explore TV show details based on genres,
