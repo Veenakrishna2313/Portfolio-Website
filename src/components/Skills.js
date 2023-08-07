@@ -72,7 +72,7 @@ const Skills = () => {
               <p>Heroku, GCP, POSTMAN, VSCode, Github Pages, Netlify</p>
             </div>
           </div>
-          {/* */}
+        
           <div className="col=md-3 col-sm-6">
             <div className="box">
               <div className="circle">
