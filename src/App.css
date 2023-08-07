@@ -313,7 +313,8 @@ background:white
       text-align: center;
        width:20rem;
       height:20rem;
-       border:5px solid rgba(253, 188, 68, 0.87);
+       border:3px solid rgba(160, 160, 154, 0.87);
+       border-radius: 5px;
         
     }
     

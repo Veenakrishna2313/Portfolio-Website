@@ -1,7 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import studentProfiles from "./assets/Projects/Student profiles.png";
 import tvshow from "./assets/Projects/TV show app.png";
 import crypto from "./assets/Projects/crypto tracker.png"
+import picsome from "./assets/Projects/picsome.png"
+import travel from "./assets/Projects/travel journal.png";
+import cloudify from "./assets/Projects/cloudify.png";
 import grocery from "./assets/Projects/grocery list Manager.png";
 import instadev from "./assets/Projects/InstaDev.png";
 import musicplayer from "./assets/Projects/musicplayer.png";
@@ -15,7 +18,7 @@ const Portfolio = () => {
           <img
             className="portfolio-image"
             src={studentProfiles}
-            alt="Grocery List Manager Project"
+            alt="Student Profiles.."
           />
           <p className="portfolio-text">
             A user-friendly, responsive front-end application built with React,
@@ -46,7 +49,7 @@ const Portfolio = () => {
           <img
             className="portfolio-image"
             src={crypto}
-            alt="TV guide project..."
+            alt="Crypto tracking...."
           />
           <p>
             An interactive cryptocurrency tracking app created with React Hooks,
@@ -56,10 +59,78 @@ const Portfolio = () => {
           </p>
           <a
             target="_blank"
-            href="https://github.com/Veenakrishna2313/TVshows-App"
+            href="https://github.com/Veenakrishna2313/crypto-tracker"
             className="button btn btn-warning btn-sm "
           >
             Browse Code
+          </a>
+
+          <a
+            target="_blank"
+            href="https://trackcryptocurrencies.netlify.app/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
+          </a>
+
+          <div className="overflow"></div>
+        </div>
+
+        <div className="portfolio-image-box col ">
+          <img
+            className="portfolio-image"
+            src={picsome}
+            alt="Photo Gallery app.."
+          />
+          <p>
+            A responsive photo gallery app utilizing Vite, React hooks, and
+            Context API. This dynamic app enables users to like, bookmark, and
+            add photos to the cart, providing an interactive and engaging photo
+            browsing experience.
+          </p>
+          <a
+            target="_blank"
+            href="https://github.com/Veenakrishna2313/Pic-Some"
+            className="button btn btn-warning btn-sm "
+          >
+            Browse Code
+          </a>
+
+          <a
+            target="_blank"
+            href="https://the-pic-some.netlify.app/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
+          </a>
+
+          <div className="overflow"></div>
+        </div>
+        <div className="portfolio-image-box col ">
+          <img
+            className="portfolio-image"
+            src={cloudify}
+            alt="Cloud hosting..."
+          />
+          <p>
+            Cloud hosting website, leveraging HTML, CSS, and JavaScript. The
+            website showcases a seamless integration of these technologies,
+            providing a user-friendly interface and an engaging user experience.
+          </p>
+          <a
+            target="_blank"
+            href="https://github.com/Veenakrishna2313/Cloudify"
+            className="button btn btn-warning btn-sm "
+          >
+            Browse Code
+          </a>
+
+          <a
+            target="_blank"
+            href="https://hosting-on-cloud.netlify.app/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
           </a>
 
           <div className="overflow"></div>
@@ -82,13 +153,18 @@ const Portfolio = () => {
 
           <div className="overflow"></div>
         </div>
+
         <div className="portfolio-image-box col">
           <img
             className="portfolio-image"
             src={grocery}
             alt="Grocery List Manager Project"
           />
-          <p>Angular framework, CSS Bootstrap, Github Pages</p>
+          <p>
+            A grocery list manager using Angular, styled with CSS, and deployed
+            the application on GitHub Pages for easy access and management of
+            shopping lists.
+          </p>
           <a
             target="_blank"
             href="https://github.com/Veenakrishna2313/Grocery-list-manager"
@@ -109,10 +185,44 @@ const Portfolio = () => {
         <div className="portfolio-image-box col">
           <img
             className="portfolio-image"
+            src={tvshow}
+            alt="TV shows app"
+          />
+          <p>
+            A user-friendly web app using Angular, Angular Material Design, and
+            NodeJS, enabling users to explore TV show details based on genres,
+            cast, and schedules through integration with TVMaze.com API
+          </p>
+          <a
+            target="_blank"
+            href="https://github.com/Veenakrishna2313/Music-Player"
+            className="button btn btn-warning btn-sm "
+          >
+            Browse Code
+          </a>
+          <a
+            target="_blank"
+            href="https://veenakrishna2313.github.io/Music-Player/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
+          </a>
+
+          <div className="overflow"></div>
+        </div>
+
+        <div className="portfolio-image-box col">
+          <img
+            className="portfolio-image"
             src={musicplayer}
             alt="Music Player"
           />
-          <p>Html, CSS, Javascript and Github Pages</p>
+          <p>
+            A dynamic music player app with captivating animations using HTML,
+            CSS, and JavaScript, featuring synchronized pulse animations,
+            play/pause controls, and responsive playback for enhanced user
+            engagement across devices.
+          </p>
           <a
             target="_blank"
             href="https://github.com/Veenakrishna2313/Music-Player"
