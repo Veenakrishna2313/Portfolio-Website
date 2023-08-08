@@ -102,7 +102,7 @@ const Experience = () => {
           <div className="timeline-content">
             <h3>2017 - 2018</h3>
             <h6>
-              Business Coordinator |<i> | Tangible IP, LLC</i>
+              Business Coordinator |<i> Tangible IP, LLC</i>
             </h6>
             <p>
               • • Managed multi-million-dollar intellectual property portfolios,
