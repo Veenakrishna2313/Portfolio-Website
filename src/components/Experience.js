@@ -114,7 +114,7 @@ const Experience = () => {
               adding new features and themes.
             </p>
             <p>
-              • Managed the company newsletters using MailChimp – the
+              • Managed the company newsletters using MailChimp: the
               newsletters were read by over 13,500 professionals in the IP,
               business, and investment community, my efforts in optimizing the
               subscribers led to an increase of readership by 10%, 20% increase
