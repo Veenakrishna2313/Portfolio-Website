@@ -208,29 +208,37 @@ const Portfolio = () => {
           <div className="overflow"></div>
         </div>
         <div className="portfolio-image-box col">
-          <img className="portfolio-image" src={tvshow} alt="TV shows app" />
+          <img
+            className="portfolio-image"
+            src={musicplayer}
+            alt="TV shows app"
+          />
           <p>
-            A user-friendly web app using Angular, Angular Material Design, and
-            NodeJS, enabling users to explore TV show details based on genres,
-            cast, and schedules through integration with TVMaze.com API
+            A dynamic music player with captivating animations and responsive
+            design using HTML, CSS, and JavaScript. Play/pause, disk rotation,
+            and beat-synced pulse animations elevate user experience for
+            seamless playback on all devices.
           </p>
           <a
             target="_blank"
-            href="https://github.com/Veenakrishna2313/TVshows-App"
+            href="https://github.com/Veenakrishna2313/Music-Player"
             className="button btn btn-warning btn-sm "
           >
             Browse Code
+          </a>
+          <a
+            target="_blank"
+            href="https://veenakrishna2313.github.io/Music-Player/"
+            className="button btn btn-warning btn-sm "
+          >
+            See It Live
           </a>
 
           <div className="overflow"></div>
         </div>
 
         <div className="portfolio-image-box col">
-          <img
-            className="portfolio-image"
-            src={travel}
-            alt="Travel Journal"
-          />
+          <img className="portfolio-image" src={travel} alt="Travel Journal" />
           <p>
             Crafted a React-powered travel journal to document experiences
             seamlessly. Responsive design guarantees smooth usage on all devices
