@@ -80,7 +80,7 @@ const Skills = () => {
               </div>
 
               <h3>Other</h3>
-              <p>Salesforce, MailChimp, WordPress</p>
+              <p>Salesforce, MailChimp, WordPress, MS office, MS project, Bluebeam</p>
             </div>
           </div>
         </div>

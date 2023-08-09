@@ -291,7 +291,7 @@ background:white
   .portfolio-wrapper{
 
     background: rgb(247, 245, 245);
-    padding:3rem 0;
+    padding:4rem 0;
     justify-content: center;
     
     
@@ -309,7 +309,7 @@ background:white
       }
     .portfolio-image-box{
       position:relative;
-      margin:  1rem;
+      margin:  5rem;
       text-align: center;
        width:20rem;
       height:20rem;
@@ -322,7 +322,7 @@ background:white
       position:absolute;
       opacity:0;
       background:black;
-     padding: 0.5rem;
+      padding: 0.5rem;
       top:0;
       border:1px solid black;
       cursor:pointer;
@@ -372,8 +372,8 @@ background:white
 
 @media(max-width:768px){
   .circles{
-  margin:0px 40px 30px 40px;;
-  width:50px;
+  margin:20px 30px;
+  width:5px;
 }
 }
 .heading{

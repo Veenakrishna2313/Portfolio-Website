@@ -8,7 +8,7 @@ import Resume from "./assets/Veena Krishna Resume.pdf"
 
 const Footer = () => {
   return (
-    <div id="contact" className="footer">
+    <div id="contact" className="footer container-fluid text-center">
       <h1 className="py-5 heading">Lets Connect! </h1>
       <div className="container ">
         <div className="row justify-content-center">

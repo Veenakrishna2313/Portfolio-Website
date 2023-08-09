@@ -160,6 +160,26 @@ const Portfolio = () => {
         </div>
 
         <div className="portfolio-image-box col">
+          <img className="portfolio-image" src={tvshow} alt="TV show guide" />
+          <p>
+            A dynamic web app using Angular, TypeScript, and Node.js,
+            integrating TVMaze APIs, offering users effortless TV show
+            exploration via genre, cast, and schedule filters with an appealing
+            Angular Material Design interface.
+          </p>
+
+          <a
+            target="_blank"
+            href="https://github.com/Veenakrishna2313/InstaDev-G"
+            className="button button btn btn-warning btn-sm "
+          >
+            Browse Code
+          </a>
+
+          <div className="overflow"></div>
+        </div>
+
+        <div className="portfolio-image-box col">
           <img
             className="portfolio-image"
             src={grocery}
