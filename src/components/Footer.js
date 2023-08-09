@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub} from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope,faFile } from '@fortawesome/fontawesome-free-solid';
 import { faLinkedin} from "@fortawesome/free-brands-svg-icons";
-import Resume from "./assets/Veena Krishna Resume.pdf"
+import Resume from "./assets/Veena Krishna Resume-Web Developer.pdf"
 
 
 const Footer = () => {
