@@ -170,7 +170,7 @@ const Portfolio = () => {
 
           <a
             target="_blank"
-            href="https://github.com/Veenakrishna2313/InstaDev-G"
+            href="https://github.com/Veenakrishna2313/TVshows-App"
             className="button button btn btn-warning btn-sm "
           >
             Browse Code
@@ -216,17 +216,10 @@ const Portfolio = () => {
           </p>
           <a
             target="_blank"
-            href="https://github.com/Veenakrishna2313/Music-Player"
+            href="https://github.com/Veenakrishna2313/TVshows-App"
             className="button btn btn-warning btn-sm "
           >
             Browse Code
-          </a>
-          <a
-            target="_blank"
-            href="https://veenakrishna2313.github.io/Music-Player/"
-            className="button btn btn-warning btn-sm "
-          >
-            See It Live
           </a>
 
           <div className="overflow"></div>
@@ -235,25 +228,23 @@ const Portfolio = () => {
         <div className="portfolio-image-box col">
           <img
             className="portfolio-image"
-            src={musicplayer}
-            alt="Music Player"
+            src={travel}
+            alt="Travel Journal"
           />
           <p>
-            A dynamic music player app with captivating animations using HTML,
-            CSS, and JavaScript, featuring synchronized pulse animations,
-            play/pause controls, and responsive playback for enhanced user
-            engagement across devices.
+            Crafted a React-powered travel journal to document experiences
+            seamlessly. Responsive design guarantees smooth usage on all devices
           </p>
           <a
             target="_blank"
-            href="https://github.com/Veenakrishna2313/Music-Player"
+            href="https://github.com/Veenakrishna2313/travel-journal"
             className="button btn btn-warning btn-sm "
           >
             Browse Code
           </a>
           <a
             target="_blank"
-            href="https://veenakrishna2313.github.io/Music-Player/"
+            href="https://traveljournalz.netlify.app/"
             className="button btn btn-warning btn-sm "
           >
             See It Live
