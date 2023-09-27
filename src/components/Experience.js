@@ -10,35 +10,26 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>April 2021-June 2022</h3>
+            <h3>2023 - Present</h3>
             <h6>
-              Volunteer Web Application Developer|
-              <i> The Informed Voter Project</i>
+              Web Developer |<i> The Donovan's Piano Room</i>
             </h6>
             <p>
-              • Developed web application to increase the voter registration,
-              participation & voting in local elections to bring about systemic
-              changes for voters in their own community.
+              •Developing a Practice Manager app tailored for musicians, I lead
+              a team of two developers in crafting an innovative tool that
+              seamlessly tracks practice time and categorizes activities, such
+              as specific pieces, scales, and music theory. This ongoing project
+              enhances musicians' discipline and productivity using React.
             </p>
             <p>
-              • Developing the front end using React, React Hooks, Routers.
-              Election candidate’s data is retrieved from Google FireStore
-              database.
-            </p>
-            <p>
-              • Developed a Scrolly telling narrative using React-Scrollama,
-              lightweight interface for scrollytelling in React which uses
-              IntersectionObserver instead of scroll events.
-            </p>
-            <p>
-              • Developed the Mission, About and Seattle pages, which displays
-              information about Candidates for the November and December recall
-              elections.
+              • Designed and implemented a metronome application using React,
+              enriching the user experience with precise timing and rhythm
+              control, and seamlessly integrated it into WordPress using
+              ReactPress plugin to provide a valuable tool for musicians and
+              enthusiasts.
             </p>
           </div>
         </div>
-        {/* */}
-
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
@@ -72,6 +63,38 @@ const Experience = () => {
             </p>
           </div>
         </div>
+        <div className="timeline-block timeline-block-right">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>April 2021-June 2022</h3>
+            <h6>
+              Volunteer Web Application Developer|
+              <i> The Informed Voter Project</i>
+            </h6>
+            <p>
+              • Developed web application to increase the voter registration,
+              participation & voting in local elections to bring about systemic
+              changes for voters in their own community.
+            </p>
+            <p>
+              • Developing the front end using React, React Hooks, Routers.
+              Election candidate’s data is retrieved from Google FireStore
+              database.
+            </p>
+            <p>
+              • Developed a Scrolly telling narrative using React-Scrollama,
+              lightweight interface for scrollytelling in React which uses
+              IntersectionObserver instead of scroll events.
+            </p>
+            <p>
+              • Developed the Mission, About and Seattle pages, which displays
+              information about Candidates for the November and December recall
+              elections.
+            </p>
+          </div>
+        </div>
+        {/* */}
+
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
@@ -114,11 +137,11 @@ const Experience = () => {
               adding new features and themes.
             </p>
             <p>
-              • Managed the company newsletters using MailChimp: the
-              newsletters were read by over 13,500 professionals in the IP,
-              business, and investment community, my efforts in optimizing the
-              subscribers led to an increase of readership by 10%, 20% increase
-              in traffic on the website.
+              • Managed the company newsletters using MailChimp: the newsletters
+              were read by over 13,500 professionals in the IP, business, and
+              investment community, my efforts in optimizing the subscribers led
+              to an increase of readership by 10%, 20% increase in traffic on
+              the website.
             </p>
             <p>
               • Managed Capsule CRM added customization in CRM for increased
